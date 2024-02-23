@@ -1,16 +1,37 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/robert-araya-2647ba2b0
+)">RobertAraya</a> 👋</h1>
+</div>
+<img src="https://i.img![image](https://github.com/RobertArayaCarrillo/RobertArayaCarrillo/assets/92409762/7cd44549-e1ed-4832-8d08-355e72a326b6)
+ur.com/weNbhGZ.png">
 
-<!--
-**RobertArayaCarrillo/RobertArayaCarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-Here are some ideas to get you started:
+## Sobre mi
+- Student Software Engineer
+- Live in Costa Rica
+- Education University: Universidad Cenfotec
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+## Proyectos *realizados*
+<table>
+
+
+
+</table>                                                                                 
+</div>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
