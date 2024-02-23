@@ -36,7 +36,7 @@
 - Guides and Scouts of Costa Rica
 - Crossfit
 
-##Soft skills:
+## Soft Skills 
 - ![Leadership](https://img.shields.io/badge/-Leadership-4285F4?style=for-the-badge)
 - ![Teamwork](https://img.shields.io/badge/-Teamwork-DB4437?style=for-the-badge)
 - ![Survival and Outdoor Skills](https://img.shields.io/badge/-Survival%20and%20Outdoor%20Skills-F4B400?style=for-the-badge)
