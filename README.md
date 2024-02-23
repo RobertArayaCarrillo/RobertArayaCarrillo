@@ -7,50 +7,23 @@
 <br>
 
 ## About me 🙋🏻‍♂️
-
 - 📖 Student Software Engineer 📖
 - 🧑🏻‍🎓 Education University: Universidad Cenfotec 🧑🏻‍🎓
 - 🌎 Live in Costa Rica, Cartago, Tejar 🌎
 
+## Objective 🎯
+-Take data to generate impact decisions on this company in addition to learning and thus being able to contribute and help the company grow.
+-As I am a student, I know that it will help me grow and have many more skills or strengthen the ones I already have and become a better professional.
+-Obtain a challenging position that allows me to apply and develop my skills and thus contribute to the growth and success of the team.
+-Seek opportunities that foster my professional development, allowing me to acquire new skills and knowledge to grow in my career.
+-Seek an environment that values innovation and creativity, where you can contribute fresh ideas and effective solutions to address the challenges that arise.
+
 ## Contact me 🙋🏻‍♂️
 - 📧 Email: robertaraya382@gmail.com 📧
 - 📲 Telf: +506 8820-8167 📲
-- <div class="code-section">
-  <h2>Sobre Mí</h2>
-  <img src="foto-perfil.jpg" alt="Foto de perfil" class="profile-image">
-  <p>
-    Apasionado por la generación de decisiones de impacto a través de datos. Busco contribuir al crecimiento de la empresa y adquirir nuevas habilidades. Tengo experiencia en Java, JavaScript, C++, C#, Python, SQL, MongoDB, React y .Net. 
-  </p>
-  <div class="skills">
-    <h3>Habilidades Técnicas</h3>
-    <ul>
-      <li>
-        <i class="fab fa-java"></i> Java <span class="badge badge-success">Avanzado</span>
-      </li>
-      <li>
-        <i class="fab fa-js-square"></i> JavaScript <span class="badge badge-warning">Medio</span>
-      </li>
-      <li>
-        <i class="fab fa-cpp"></i> C++ <span class="badge badge-warning">Medio</span>
-      </li>
-      ...
-    </ul>
-  </div>
-  <div class="experience">
-    <h3>Experiencia Extracurricular</h3>
-    <ul>
-      <li>Guías y Scouts de Costa Rica (2021 - presente) - Liderazgo, trabajo en equipo, comunicación</li>
-      <li>CrossFit (CrossFit Mania Cartago & Fit Progress Box) (2021-2023) - Perseverancia, disciplina</li>
-    </ul>
-  </div>
-  <div class="languages">
-    <h3>Idiomas</h3>
-    <ul>
-      <li>Español (Nativo) <img src="es-flag.png" alt="Spanish flag" width="20"></li>
-      <li>Inglés (Medio) <img src="en-flag.png" alt="English flag" width="20"></li>
-    </ul>
-  </div>
-</div>
+
+## Social Media 💬
+- Intagram: <a href="[https://www.linkedin.com/in/robert-david-araya-carrillo-2647ba2b0](https://www.instagram.com/invites/contact/?i=1bsxu72ccf46h&utm_content=1g39vzr)">roberttdavid23</a>
 
 ## Technical Skills 🃏
 - Java (Advanced) 
@@ -63,7 +36,7 @@
 - React (Medium)
 - .Net (Medium)
 
-## Technical Skills 🃏
+## Languages 
 - Spanish (Native Language) ✅
 - English (Advanced) ✅
 
