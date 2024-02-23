@@ -8,7 +8,7 @@
 
 
 <br>\
-## About me
+## About me 🙋🏻‍♂️
 
 - 📖 Student Software Engineer 📖
 - 🧑🏻‍🎓 Education University: Universidad Cenfotec 🧑🏻‍🎓
@@ -17,14 +17,17 @@
 - 🌎 Live in Costa Rica, Cartago, Tejar 🌎
 
 
-## Technical Skills
+## Technical Skills 🥷🏿
+- Java (Advanced) 
+- JavaScrip (Medium)
+- C++ (Medium)
+- C# (Medium)
+- Python (Medium)
+- SQL (Medium)
+- MongoDB (Medium)
+- React (Medium)
+- .Net (Medium)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ray0emma&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-- 
-- 📧 Email: robertaraya382@gmail.com 📧
-- 📲 Telf: +506 8820-8167 📲 
-- 🌎 Live in Costa Rica 🌎
-- 🧑🏻‍🎓 Education University: Universidad Cenfotec 🧑🏻‍🎓
 
 
 ## Projects *done*
