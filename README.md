@@ -15,34 +15,7 @@
 ## Contact me 🙋🏻‍♂️
 - 📧 Email: robertaraya382@gmail.com 📧
 - 📲 Telf: +506 8820-8167 📲
-- 
-
-## Technical Skills 🃏
-- Java (Advanced) 
-- JavaScrip (Medium)
-- C++ (Medium)
-- C# (Medium)
-- Python (Medium)
-- SQL (Medium)
-- MongoDB (Medium)
-- React (Medium)
-- .Net (Medium)
-
-## Technical Skills 🃏
-- Spanish (Native Language) ✅
-- English (Advanced) ✅
-
-## Projects *done*
-<table>
-
-
-
-</table>                                                                                 
-</div>
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
-<div class="code-section">
+- <div class="code-section">
   <h2>Sobre Mí</h2>
   <img src="foto-perfil.jpg" alt="Foto de perfil" class="profile-image">
   <p>
@@ -78,5 +51,32 @@
     </ul>
   </div>
 </div>
+
+## Technical Skills 🃏
+- Java (Advanced) 
+- JavaScrip (Medium)
+- C++ (Medium)
+- C# (Medium)
+- Python (Medium)
+- SQL (Medium)
+- MongoDB (Medium)
+- React (Medium)
+- .Net (Medium)
+
+## Technical Skills 🃏
+- Spanish (Native Language) ✅
+- English (Advanced) ✅
+
+## Projects *done*
+<table>
+
+
+
+</table>                                                                                 
+</div>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
 
 
