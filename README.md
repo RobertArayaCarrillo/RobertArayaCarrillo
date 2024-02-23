@@ -8,7 +8,6 @@
 
 
 <br>\
-## Sobre mi
 ## About me
 
 - 📖 Student Software Engineer 📖
@@ -20,7 +19,8 @@
 
 ## Technical Skills
 
-- ![image](https://github.com/RobertArayaCarrillo/RobertArayaCarrillo/assets/92409762/c0bb8883-9077-4bf6-9bbc-5e6ee54c90d4)
+- ![image](https://github.com/RobertArayaCarrillo/RobertArayaCarrillo/assets/92409762/43c65992-59bc-4627-9420-3ce5f1b5ca46)
+
 
 - 📧 Email: robertaraya382@gmail.com 📧
 - 📲 Telf: +506 8820-8167 📲 
