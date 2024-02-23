@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4E16AQFfV2s6EBmhww/profile-displaybackgroundimage-shrink_200_800/0/1708669774553?e=1714003200&v=beta&t=-GITIkrr6O0MDSH4l7KFf4Y2SnIz_yP6OQrYZdhITGc">
-
+</div>
 <br>
 
 ## About me 🙋🏻‍♂️
@@ -36,15 +36,7 @@
 - Crossfit
 
 ## Soft Skills 
-- ![Leadership](https://img.shields.io/badge/-Leadership-4285F4?style=for-the-badge)
-- ![Teamwork](https://img.shields.io/badge/-Teamwork-DB4437?style=for-the-badge)
-- ![Survival and Outdoor Skills](https://img.shields.io/badge/-Survival%20and%20Outdoor%20Skills-F4B400?style=for-the-badge)
-- ![Problem Resolution](https://img.shields.io/badge/-Problem%20Resolution-0F9D58?style=for-the-badge)
-- ![Communication](https://img.shields.io/badge/-Communication-AB47BC?style=for-the-badge)
-- ![Responsibility and Organization](https://img.shields.io/badge/-Responsibility%20and%20Organization-00ACC1?style=for-the-badge)
-- ![Values and Ethics](https://img.shields.io/badge/-Values%20and%20Ethics-FF7043?style=for-the-badge)
-- ![Discipline](https://img.shields.io/badge/-Discipline-9E9E9E?style=for-the-badge)
-- ![Resilience](https://img.shields.io/badge/-Resilience-795548?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/-Leadership-4285F4?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/-Teamwork-DB4437?style=for-the-badge) ![Survival and Outdoor Skills](https://img.shields.io/badge/-Survival%20and%20Outdoor%20Skills-F4B400?style=for-the-badge) ![Problem Resolution](https://img.shields.io/badge/-Problem%20Resolution-0F9D58?style=for-the-badge) ![Communication](https://img.shields.io/badge/-Communication-AB47BC?style=for-the-badge) ![Responsibility and Organization](https://img.shields.io/badge/-Responsibility%20and%20Organization-00ACC1?style=for-the-badge) ![Values and Ethics](https://img.shields.io/badge/-Values%20and%20Ethics-FF7043?style=for-the-badge) ![Discipline](https://img.shields.io/badge/-Discipline-9E9E9E?style=for-the-badge) ![Resilience](https://img.shields.io/badge/-Resilience-795548?style=for-the-badge)
 
 
 ## Languages 
@@ -57,7 +49,7 @@
 
 
 </table>                                                                                 
-</div>
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
