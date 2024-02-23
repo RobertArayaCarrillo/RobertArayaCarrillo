@@ -23,7 +23,7 @@
 - 📲 Telf: +506 8820-8167 📲
 
 ## Social Media 💬
-- Intagram: <a href="https://www.instagram.com/invites/contact/?i=1bsxu72ccf46h&utm_content=1g39vzr">roberttdavid23</a>
+- Intagram: <a href="https://www.instagram.com/roberttdavid23?igsh=N2t4eTczdmoxbGN6">roberttdavid23</a>
 
 ## Technical Skills 🃏
 - Java (Advanced) 
