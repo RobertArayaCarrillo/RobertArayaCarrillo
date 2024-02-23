@@ -17,7 +17,7 @@
 - 🌎 Live in Costa Rica, Cartago, Tejar 🌎
 
 
-## Technical Skills 🥷🏿
+## Technical Skills 🃏
 - Java (Advanced) 
 - JavaScrip (Medium)
 - C++ (Medium)
