@@ -1,12 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/robert-david-araya-carrillo-2647ba2b0">RobertAraya</a> 👋</h1>
 </div>
-<img src="C:\Users\desktop\Downloads\Robert Araya.png">
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<img src="https://media.licdn.com/dms/image/D4E16AQFfV2s6EBmhww/profile-displaybackgroundimage-shrink_200_800/0/1708669774553?e=1714003200&v=beta&t=-GITIkrr6O0MDSH4l7KFf4Y2SnIz_yP6OQrYZdhITGc">
 
 ## Sobre mi
 - Student Software Engineer
