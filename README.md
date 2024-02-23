@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/robert-david-araya-carrillo-2647ba2b0">RobertAraya</a> 👋</h1>
 </div>
-<img align:"center" src="https://media.licdn.com/dms/image/D4E16AQFfV2s6EBmhww/profile-displaybackgroundimage-shrink_200_800/0/1708669774553?e=1714003200&v=beta&t=-GITIkrr6O0MDSH4l7KFf4Y2SnIz_yP6OQrYZdhITGc">
+<p align"center"><img align:"center" src="https://media.licdn.com/dms/image/D4E16AQFfV2s6EBmhww/profile-displaybackgroundimage-shrink_200_800/0/1708669774553?e=1714003200&v=beta&t=-GITIkrr6O0MDSH4l7KFf4Y2SnIz_yP6OQrYZdhITGc"></p>
 
 ## Sobre mi
 - Student Software Engineer
