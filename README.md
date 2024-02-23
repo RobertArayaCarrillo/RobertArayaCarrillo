@@ -12,11 +12,11 @@
 - 🌎 Live in Costa Rica, Cartago, Tejar 🌎
 
 ## Objective 🎯
--Take data to generate impact decisions on this company in addition to learning and thus being able to contribute and help the company grow.
--As I am a student, I know that it will help me grow and have many more skills or strengthen the ones I already have and become a better professional.
--Obtain a challenging position that allows me to apply and develop my skills and thus contribute to the growth and success of the team.
--Seek opportunities that foster my professional development, allowing me to acquire new skills and knowledge to grow in my career.
--Seek an environment that values innovation and creativity, where you can contribute fresh ideas and effective solutions to address the challenges that arise.
+- Take data to generate impact decisions on this company in addition to learning and thus being able to contribute and help the company grow.
+- As I am a student, I know that it will help me grow and have many more skills or strengthen the ones I already have and become a better professional.
+- Obtain a challenging position that allows me to apply and develop my skills and thus contribute to the growth and success of the team.
+- Seek opportunities that foster my professional development, allowing me to acquire new skills and knowledge to grow in my career.
+- Seek an environment that values innovation and creativity, where you can contribute fresh ideas and effective solutions to address the challenges that arise.
 
 ## Contact me 🙋🏻‍♂️
 - 📧 Email: robertaraya382@gmail.com 📧
