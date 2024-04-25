@@ -2,7 +2,7 @@
 <h1 align="center">Hello, am <a href="https://www.linkedin.com/in/robert-david-araya-carrillo-2647ba2b0">RobertAraya</a> 🖥️</h1>
 </div>
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQFfV2s6EBmhww/profile-displaybackgroundimage-shrink_200_800/0/1708669774553?e=1714003200&v=beta&t=-GITIkrr6O0MDSH4l7KFf4Y2SnIz_yP6OQrYZdhITGc">
+<img src="https://media.licdn.com/dms/image/D4E16AQFfV2s6EBmhww/profile-displaybackgroundimage-shrink_350_1400/0/1708669774553?e=1719446400&v=beta&t=SwbE4YEC1vZaTwySdrcxSZyzQAxkTcTYUjLMBYoddTs">
 </div>
 <br>
 
